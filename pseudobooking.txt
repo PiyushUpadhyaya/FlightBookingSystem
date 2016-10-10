@@ -1,0 +1,24 @@
+string depart_st;
+string arriving_st;
+string date;
+
+print "enter the destination ";
+scan "destination";
+
+print "enter the source ";
+scan "arriving_st";
+
+print "enter the date ";
+scan "date";
+
+submit the date, destination and source;
+	
+	s.getInput()
+//	retrieve database
+	if inputs matches to the details;
+	show flight details;
+	show flight timings;
+	show airlines details;
+	show price list;
+	show time;
+//	opt user for booking confirmation.

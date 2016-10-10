@@ -1,0 +1,18 @@
+Welcome to the Flight_Booking_system wiki!
+Software Requirement Specification for project.
+
+Following Features should be there: 
+1.The web application should have a login page both for the customer and airport authority.
+2.Customer is allowed to login and then search for the flight.
+3.Checking with database is done and result will be shown with prize.
+
+About the Software to be used: 
+1.For the FE:
+	 a) HTML 
+	 b) JSP
+	 c) Bootstrap
+	 d) JavaScript
+
+For the BE 
+	a) MySql DB 
+	b) JavaScript 

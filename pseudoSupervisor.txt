@@ -1,0 +1,24 @@
+int run_way[];
+
+check(atoi(flight_direction) && directed runway)
+{
+	if entered here;
+	then allow flight to depart
+	
+	else if()
+	{
+		delay flight[i];
+		check runway with using airbus;
+		if(arriving_flight)
+		{
+			get.time of arrival
+			delay flight[i] = arriving_flight_time-current time;
+		}
+		else if(departing_flight)
+		{
+			get.time of departure
+			delay flight[i] = departing_flight_time-current time;
+		}
+		
+	}
+}

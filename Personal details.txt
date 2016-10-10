@@ -1,0 +1,7 @@
+string name;
+string email_address;
+int contact_bno;
+string account number;
+string address;
+
+//store these for the respective user.

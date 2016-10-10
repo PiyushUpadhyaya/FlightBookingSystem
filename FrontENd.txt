@@ -1,0 +1,12 @@
+//front end pseudo code;
+nav stack bar;
+Menus;
+delayed flights;
+login menu;
+	{
+	string 	username;
+	string password;
+
+	}
+Arriving flight menu;
+Home link;

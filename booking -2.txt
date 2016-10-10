@@ -1,0 +1,12 @@
+string depart_st;
+string arriving_st;
+string date;
+
+match ((db.date with date)&& (dep_st==db.dep_st)&&(arr_st==db.arr_st))
+	{
+	print(flight name, flight details, prize);
+	}
+if(submit)
+{
+then redirect to payment gateway;
+}

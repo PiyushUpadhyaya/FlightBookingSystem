@@ -1,0 +1,44 @@
+int ticket;
+string user;
+string admin;
+strint password;
+int ticket price;
+
+///FOR ADMIN LOGIN
+ if (admin matches uname && password matches paasswd.db)
+  {
+displayHome();
+	}
+ else 
+	SYSO("Incorrect credentials");
+
+///FOR CUSTOMER LOGIN
+
+if (admin matches uname && password matches paasswd.db)
+  {
+displayHome();
+	}
+ else 
+	SYSO("Incorrect credentials");
+
+//ON HOME PAGE
+
+	input name;
+	input dest;
+	input source;
+ check with database;
+	if(flight details matches)
+	display flight cost;
+	seat availaility;
+	show seta map;
+	if checked then redirect to payment page.
+else
+	enter other flight dest;
+
+//PAyment page
+	input credentaisl;
+	input card details;
+
+	if(payment submitted)
+		issue ticket
+	else redirect to home

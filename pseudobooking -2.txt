@@ -1,0 +1,9 @@
+//get confirmation from user for payment.
+
+select the flight;
+submit the flight to the airline;
+retrieve seat availability from database;
+
+allow the user to select the seat and submit to the airline.
+confirm seat and redirect to 
+payment page;

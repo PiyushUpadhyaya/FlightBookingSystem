@@ -1,0 +1,12 @@
+string u_name;
+string passwd;
+ check database
+	if (database_user_password == passwd)
+	{
+	then redirect to flight_booking.jsp;
+	}
+	else
+	{
+	error("Invald credential");
+	redirect to the same page;
+	}
